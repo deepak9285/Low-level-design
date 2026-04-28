@@ -1,0 +1,3 @@
+class supplier<shape>{
+
+}

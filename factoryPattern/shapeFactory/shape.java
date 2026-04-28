@@ -1,0 +1,3 @@
+interface shape{
+    void draw();
+}
